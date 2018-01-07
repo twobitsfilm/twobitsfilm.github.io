@@ -150,7 +150,7 @@ ul li:hover a {
 /* Parallax Section */
 .banner {
 	background-color: #2D9AB7;
-	background-image: url(../images/parallax.png);
+	background-image: url(../images/lifebot_companion.png);
 	height: 400px;
 	background-attachment: fixed;
 	background-size: cover;
@@ -163,6 +163,7 @@ ul li:hover a {
 	padding-top: 110px;
 	letter-spacing: 2px;
 	margin-top: 0px;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 .parallax_description {
 	color: #FFFFFF;
@@ -170,12 +171,13 @@ ul li:hover a {
 	padding-right: 100px;
 	width: 30%;
 	float: right;
-	font-weight: lighter;
+	font-weight: normal;
 	line-height: 23px;
 	margin-top: 0px;
 	margin-right: 0px;
 	margin-bottom: 0px;
 	margin-left: 0px;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 /* More info */
 footer {
